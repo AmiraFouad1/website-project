@@ -1,0 +1,4 @@
+stepDefs\D01_registerStepDef.class
+stepDefs\Hooks.class
+pages\P01_register.class
+testRunner\runners.class
